@@ -16,4 +16,11 @@ This repository uses artificially created data that hopefully mimics:
 
 The model learns spatial features associated with blocking-like heatwave structures.
 
+## How to Run
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+
 
