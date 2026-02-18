@@ -1,0 +1,6 @@
+Requirements
+
+numpy
+torch
+matplotlib
+scipy
